@@ -11,6 +11,6 @@ The program will return the top 5 most common adjectives and adjective-noun pair
 Thee summary will be stored in a summary_{app_id}.json file, where {app_id} is the steam app id.
 
 Dependencies:
-  pandas
-  steamreviews
-  spacy
+  pandas,
+  steamreviews,
+  spacy,

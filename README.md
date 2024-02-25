@@ -13,4 +13,4 @@ Thee summary will be stored in a summary_{app_id}.json file, where {app_id} is t
 Dependencies:
   pandas,
   steamreviews,
-  spacy,
+  spacy
